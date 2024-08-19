@@ -35,7 +35,7 @@ Make sure you have the following installed on your machine:
    ```bash
    npm run dev
 
-**Project Structure:**
+### Project Structure
 ```bash
 FreshFoodMart/
 ├── public/             # Static files
