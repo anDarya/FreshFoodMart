@@ -36,6 +36,7 @@ Make sure you have the following installed on your machine:
    npm run dev
 
 **Project Structure:**
+```bash
 FreshFoodMart/
 ├── public/             # Static files
 ├── src/
