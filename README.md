@@ -27,9 +27,11 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/anDarya/FreshFoodMart.git
    cd FreshFoodMart
 2. **Install dependencies:**
+  ```bash
     npm install
-3. **Running the Project:**
+4. **Running the Project:**
 To start the development server, use the following command:
+ ```bash
 npm run dev
 
 **Project Structure:**
