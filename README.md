@@ -32,9 +32,8 @@ Make sure you have the following installed on your machine:
     npm install
 
 3. **Running the Project:**
-   To start the development server, use the following command:
-       ```bash
-      npm run dev
+   ```bash
+   npm run dev
 
 **Project Structure:**
 FreshFoodMart/
